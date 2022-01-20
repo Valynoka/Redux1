@@ -1,0 +1,20 @@
+.customers{
+    border-radius: 10px;
+    border: 1px solid #e8d7b2;
+    background-color-color: saddlebrown;
+    font-size: 25px;
+    padding: 15px;
+    margin-top: 20px;
+
+}
+
+.customers__rem{
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 4px;
+    background-color: red;
+    font-size: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
